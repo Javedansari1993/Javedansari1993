@@ -58,7 +58,7 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Javedansari1993&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="[https://github-readme-stats-ruby-one.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api?username=Javedansari1993&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Javedansari1993&hide_border=true&theme=radical" />
 </p>
 
@@ -66,5 +66,5 @@ Find out more about me & feel free to connect with me here:
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Javedansari1993&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="[https://github-readme-stats-ruby-one.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api/top-langs/?username=Javedansari1993&layout=compact&hide_border=true&theme=radical" />
 </p>
