@@ -75,10 +75,5 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-## 📕 Pinned Repositories
-
-<a href="https://github.com/Javedansari1993/Crypto-dashboard">
-  <img align="center" src="https://javed-crypto-dashboard.netlify.app/?username=javedansari1993&repo=AnimeApp&hide_border=true&theme=radical" />
-</a>
 
 
