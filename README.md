@@ -55,8 +55,17 @@ Find out more about me & feel free to connect with me here:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Javedansari1993&theme=dark&hide_border=false)<br/>
----
-[![](https://visitcount.itsvg.in/api?id=Javedansari1993&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Javedansari1993&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Javedansari1993&hide_border=true&theme=radical" />
+</p>
+
+
+## 🔝 Most used languages
+
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javedansari1993&layout=compact&hide_border=true&theme=radical" />
+</p>
 
