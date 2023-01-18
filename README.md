@@ -59,21 +59,11 @@ Find out more about me & feel free to connect with me here:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 
-## 📈 Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=javedansari1993&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.netlify.com/?user=javedansari1993&hide_border=true&theme=radical" />
-</p>
-
-
-## 🔝 Most used languages
-
-<p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javedansari1993&layout=compact&hide_border=true&theme=radical" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.netlify.com/?user=javed.cabm@gmail.com&theme=dark&hide_border=false)<br/>
 
 ---
+<!-- [![](https://visitcount.itsvg.in/api?id=Vaithorat&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
 
